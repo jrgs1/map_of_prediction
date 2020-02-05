@@ -1,0 +1,7 @@
+<launch>
+
+  <node pkg="map_building" name="map_building_and_prediction" type="map_building_node" output="screen">
+
+  </node>
+
+</launch>
