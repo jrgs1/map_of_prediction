@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+	<name>map_building</name>
+	<version>0.0.0</version>
+	<description>The map_building package</description>
+	<maintainer email="jerzy.rapcewicz@pw.edu.pl">jr</maintainer>
+	<license>All rights reserved by Warsaw University of Technology since this node was made for master thesis</license>
+	<depend>roscpp</depend> 
+	<depend>image_transport</depend>
+	<depend>cv_bridge</depend>
+	<depend>sensor_msgs</depend>
+	<depend>rosconsole</depend>
+	<buildtool_depend>catkin</buildtool_depend>
+	<export>
+	</export>
+</package>
